@@ -167,7 +167,7 @@ ul li {
 /* reusable 'best deal' tag */
 .card.best-deal {
   margin-top: 1rem;
-  padding-top: 2.5rem;
+  padding-top: 3rem;
   position: relative;
 }
 
@@ -247,6 +247,10 @@ ul li {
 
   .heading-wrapper h2 {
     font-size: 2rem;
+  }
+
+  .heading-wrapper.bigger-heading h2 {
+    line-height: 2.25rem;
   }
 
   .divider {
